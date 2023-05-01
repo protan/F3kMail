@@ -62,7 +62,7 @@ echo '
                 <!-- Section: Social media -->
                 <section class="mb-4">
                     <!-- Facebook -->
-                    <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/protanhalder.2/" role="button"><i
+                    <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/ItsProtanHalder/" role="button"><i
                             class="fab fa-facebook-f"></i></a>
 
                     <!-- Twitter -->
@@ -82,11 +82,11 @@ echo '
                             class="fab fa-linkedin-in"></i></a>
 
                     <!-- Telegram -->
-                    <a class="btn btn-outline-light btn-floating m-1" href="https://t.me/protan2206" role="button"><i
+                    <a class="btn btn-outline-light btn-floating m-1" href="https://t.me/ProtanHalder" role="button"><i
                         class="fab fa-brands fa-telegram"></i></a>
 
                     <!-- Github -->
-                    <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/protan2206/"
+                    <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/protan/"
                         role="button"><i class="fab fa-github"></i></a>
                 </section>
                 <!-- Section: Social media -->
@@ -96,7 +96,7 @@ echo '
             <!-- Copyright -->
             <div class="rounded text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
                 © 2022 Copyright:
-                <a class="text-white" href="https://www.github.com/protan2206/">PROTAN HALDER</a>
+                <a class="text-white" href="https://www.github.com/protan/">PROTAN HALDER</a>
             </div>
             <!-- Copyright -->
         </footer>
